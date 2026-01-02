@@ -1,0 +1,8 @@
+{
+  "name": "Chat con Nai 🇦🇷",
+  "description": "Hablá con Naiara (Nai), una chica de 17 años de Argentina. Un chatbot informal con estilo WhatsApp y funciones interactivas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
